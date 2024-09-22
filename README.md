@@ -10,9 +10,11 @@ Vectors were used to create the algorithm.
 <br>
 <br>
 <b>UML Diagram</b>
+<br>
 ![image](https://github.com/user-attachments/assets/b2209ffe-eb1c-4bf6-b277-9cc29c7c3ac7)
 
 <br>
 <br>
 <b>Implemented Solution</b>
+<br>
 ![image](https://github.com/user-attachments/assets/8f95f98b-a822-4b0e-8f2e-d4e939ef613a)
